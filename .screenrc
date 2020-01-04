@@ -17,6 +17,7 @@ term xterm-256color
 # ステータスライン
 hardstatus alwayslastline "%{= cd} %-w%{= wk} %n %t* %{-}%+w %= LoadAVG [%l] "
 
+
 # エスケープキー
 escape ^Tt
 
